@@ -7,5 +7,4 @@ Sua construção, feita em *python* contou ainda com a utilização da bibliotec
 #### Demonstração da Aplicação
 
 [![APP](https://www.betterevaluation.org/sites/default/files/styles/feature_image/public/barchart.gif?itok=BiPcDxYw)](https://drive.google.com/file/d/1HXl5RD_y35K9VXvkoEFCUqHix5kEObSW/view?usp=sharing)
-
 [![REPO](https://www.shareicon.net/data/256x256/2017/03/07/880593_media_512x512.png)](https://github.com/JoaoVictor-HM/Boston_Housing)
