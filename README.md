@@ -10,4 +10,6 @@ Sua construção, feita em *python* contou ainda com a utilização da bibliotec
 [![REPO](https://cdn.icon-icons.com/icons2/509/PNG/512/Github_icon-icons.com_49946.png)](https://github.com/JoaoVictor-HM/Boston_Housing)
 
 
+<img src="https://img.icons8.com/material-outlined/96/000000/github.png"/>
+
 
