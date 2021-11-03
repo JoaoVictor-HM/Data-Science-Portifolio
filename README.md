@@ -6,5 +6,5 @@ Sua construção, feita em *python* contou ainda com a utilização da bibliotec
 
 #### Demonstração da Aplicação
 
-[![APP](https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/z3ahdkytzwi1jxlpazje)](https://drive.google.com/file/d/1HXl5RD_y35K9VXvkoEFCUqHix5kEObSW/view?usp=sharing)
+[![APP](https://www.betterevaluation.org/sites/default/files/styles/feature_image/public/barchart.gif?itok=BiPcDxYw)](https://drive.google.com/file/d/1HXl5RD_y35K9VXvkoEFCUqHix5kEObSW/view?usp=sharing)
 
