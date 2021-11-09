@@ -6,7 +6,7 @@ Sua construção, feita em *python*, contou ainda com a utilização da bibliote
 
 #### Demonstração da Aplicação
 
-[![APP](https://i.imgur.com/igfiuOu.jpg?1)](https://drive.google.com/file/d/1HXl5RD_y35K9VXvkoEFCUqHix5kEObSW/view?usp=sharing)
+[![APP](https://i.imgur.com/igfiuOu.jpg?1)](https://youtu.be/SIuLfAT6y0I)
 [![REPO](https://img.icons8.com/material-outlined/96/000000/github.png)](https://github.com/JoaoVictor-HM/Boston_Housing)
 
 #### Sobre o Desenvolvimento
